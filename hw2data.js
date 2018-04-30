@@ -6,7 +6,7 @@
       "job": "detective",
       "location": "Moscow",
       "company": "Self Employed",
-      "age:65"
+      "age":"65"
     },
     {
       "name": "Stephen Curry",
@@ -14,7 +14,7 @@
       "job": "Basketball Player",
       "location": "San Francisco",
       "company": "Golden State Warriors",
-      "age:30"
+      "age":"30"
     },
     {
       "name": "Paul Pogba",
@@ -22,7 +22,7 @@
       "job": "Soccer Player",
       "location": "Manchester",
       "company": "Manchester United",
-      "age:25"
+      "age":"25"
     },
     {
       "name": "Cristiano Ronaldo",
@@ -30,7 +30,7 @@
       "job": "Soccer Player",
       "location": "Madrid",
       "company": "Real Madrid",
-      "age:33"
+      "age":"33"
     },
     {
       "name": "Roger Federer",
@@ -38,7 +38,7 @@
       "job": "tennis Player",
       "location": "Bern",
       "company": "Self Employed",
-      "age:36"
+      "age":"36"
     },
     {
       "name": "Sebastian Vettel",
@@ -46,7 +46,7 @@
       "job": "Formula 1 Driver",
       "location": "Berlin",
       "company": "Ferrari",
-      "age:30"
+      "age":"30"
     },
     {
       "name": "Russell Wilson",
@@ -54,7 +54,7 @@
       "job": "Football Player",
       "location": "Seattle",
       "company": "Seattle Seahawks",
-      "age:29"
+      "age":"29"
     },
     {
       "name": "Adam Silver",
@@ -62,7 +62,7 @@
       "job": "Commissioner",
       "location": "New York",
       "company": "National Basketball Association",
-      "age:56"
+      "age":"56"
     },
     {
       "name": "Xuecheng Gao",
@@ -70,7 +70,7 @@
       "job": "LOL Pro Player",
       "location": "Shanghai",
       "company": "World Elite Club",
-      "age:25"
+      "age":"25"
     },
     {
       "name": "Zhuojun Feng",
@@ -78,7 +78,7 @@
       "job": "LOL Pro Player",
       "location": "Bengbu",
       "company": "World Elite Club",
-      "age:25"
+      "age":"25"
     },
     {
       "name": "Anny Chen",
@@ -86,7 +86,7 @@
       "job": "Library Assistant",
       "location": "Seattle",
       "company": "Seattle University",
-      "age:20"
+      "age":"20"
     },
     {
       "name": "Johnathan Levell",
@@ -94,7 +94,7 @@
       "job": "Accountant",
       "location": "Seattle",
       "company": "Count on That",
-      "age:49"
+      "age":"49"
     },
     {
       "name": "Lily Sun",
@@ -102,7 +102,7 @@
       "job": "Lawyer",
       "location": "Los Angeles",
       "company": "King & Wood Mallesons",
-      "age:24"
+      "age":"24"
     },
     {
       "name": "Joanne Shea",
@@ -110,7 +110,7 @@
       "job": "Pastor",
       "location": "Singapore",
       "company": "New Hope International Church",
-      "age:41"
+      "age":"41"
     },
     {
       "name": "Yuki Kashiwagi",
@@ -118,7 +118,7 @@
       "job": "Singer",
       "location": "Kagoshima",
       "company": "AKS",
-      "age:27"
+      "age":"27"
     }
   ]
 }
