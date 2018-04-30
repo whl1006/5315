@@ -8,7 +8,7 @@
       <company>Self Employed</company>
       <age>65</age>
     </data>
-    <data>
+<!--     <data>
       <name>Stephen Curry</name>
       <email>currys@gsw.com</email>
       <job>Basketball Player</job>
@@ -118,5 +118,5 @@
       <location>Kagoshima</location>
       <company>AKS</company>
       <age>27</age>
-    </data>
+    </data> -->
   </employees>
