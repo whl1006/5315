@@ -119,6 +119,6 @@
       "location": "Kagoshima",
       "company": "AKS",
       "age:27"
-    },
+    }
   ]
 }
